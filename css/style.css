@@ -272,6 +272,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  z-index: 5;
 }
 
 .button {
@@ -288,6 +289,10 @@ body {
 
 .button:not(:nth-last-of-type(-n + 2)) {
   margin-right: 8px;
+}
+
+.button:hover {
+  background-color: #1abc9c;
 }
 
 .icon-like {
