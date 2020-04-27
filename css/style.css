@@ -141,12 +141,12 @@ body {
 }
 
 .prev {
-  background-image: url(/img/prev-arrow.png);
+  background-image: url(/img/icons/prev-arrow.png);
   left: 0;
 }
 
 .next {
-  background-image: url(/img/next-arrow.png);
+  background-image: url(/img/icons/next-arrow.png);
   right: 0;
 }
 
