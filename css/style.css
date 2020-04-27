@@ -141,12 +141,12 @@ body {
 }
 
 .prev {
-  background-image: url(/img/prev-arrow.png);
+  background-image: url(../img/icons/prev-arrow.png);
   left: 0;
 }
 
 .next {
-  background-image: url(/img/next-arrow.png);
+  background-image: url(../icons/img/next-arrow.png);
   right: 0;
 }
 
@@ -288,19 +288,19 @@ body {
 }
 
 .icon-like {
-  background-image: url(/img/icon1-like.png);
+  background-image: url(../img/icons/icon1-like.png);
 }
 
 .icon-shuffle {
-  background-image: url(/img/icon2-shuffle.png);
+  background-image: url(../img/icons/icon2-shuffle.png);
 }
 
 .icon-clock {
-  background-image: url(/img/icon3-clock.png);
+  background-image: url(../img/icons/icon3-clock.png);
 }
 
 .icon-cart {
-  background-image: url(/img/icon4-cart.png);
+  background-image: url(../img/icons/icon4-cart.png);
   background-position: 10% 40%;
   margin-top: 8px;
   width: 100%;
