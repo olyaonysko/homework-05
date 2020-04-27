@@ -211,11 +211,14 @@ body {
   margin-right: 30px;
 }
 
-.collection__list-item-img {
-  position: relative;
+.collection__list-item img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+.collection__list-item-img {
+  position: relative;
 }
 
 .product-info {
